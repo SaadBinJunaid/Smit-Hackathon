@@ -1,0 +1,6 @@
+{
+  "name": "HCM Lite - Human Capital Management",
+  "description": "Production-grade Human Capital Management system with role-based access for Admin, HR, and Employees, attendance, leave, payroll, analytics, and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
